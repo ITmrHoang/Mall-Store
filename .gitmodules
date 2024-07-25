@@ -1,0 +1,7 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ITmrHoang/Online_Mall_Backend.git
+	#   branch = main # nếu muốn set branch default cho pull cập nhập
+[submodule "fontend"]
+	path = fontend
+	url = https://github.com/tuan304201/Meep-mall.git
